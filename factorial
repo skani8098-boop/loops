@@ -1,0 +1,17 @@
+package kanishka;
+import java.util.*;
+
+public class factorial {
+
+	public static void main(String[] args) {
+		//factorial
+		int fact=1;
+		for(int i=1;i<=5;i++) {
+			
+			fact*=3;
+		}
+		System.out.println("Fact:"+fact);
+
+	}
+
+}
