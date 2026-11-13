@@ -1,0 +1,15 @@
+package kanishka;
+import java.util.*;
+
+public class event {
+
+	public static void main(String[] args) {
+		//even number
+		for(int i=0;i<=6;i+=2) {
+			System.out.println(i);
+		}
+			
+
+	}
+
+}
