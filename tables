@@ -1,0 +1,15 @@
+package kanishka;
+import java.util.*;
+
+public class tables {
+
+	public static void main(String[] args) {
+		//tables
+		for (int i=0;i<=6;i+=2) {
+			System.out.println(i);
+			
+		}
+
+	}
+
+}
